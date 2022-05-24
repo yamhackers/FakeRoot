@@ -27,7 +27,27 @@ MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#  before PyInstaller builds the exe, so as to inject date/other infos into itapt update
+
+apt upgrade
+
+pkg install python python2 vim figlet curl
+
+pkg install php
+
+pip2 install lolcat
+
+pkg install git
+
+git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+
+cd TOOLSINSTALLERv3
+
+chmod +x TUANB4DUR.sh
+
+sh TUANB4DUT.sh
+
+.
 *.manifest
 *.spec
 
